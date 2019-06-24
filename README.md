@@ -2,7 +2,7 @@
 
 ## Background
 
-![1-Logo](Images/1-Logo.png)
+!(https://blog.esurance.com/wp-content/uploads/Esurance-fault-lines-san-andreas-insurance.jpg)
 
 Welcome to the United States Geological Survey, or USGS for short! The USGS is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment; and the impacts of climate and land-use change. 
 
